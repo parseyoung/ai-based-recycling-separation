@@ -18,5 +18,17 @@
 ## 최종 외형
 ![image](https://github.com/parseyoung/ai-based-recycling-separation/assets/104110839/ff77c3e9-c0a0-4f81-a2a6-6109032cce1e)
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## 시연 동영상
 https://youtu.be/BkW2UgYah14?si=o2FUHkLrD6suMRaF
